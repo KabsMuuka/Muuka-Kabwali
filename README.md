@@ -1,4 +1,4 @@
-[![MasterHead](https://my-media.apjonlinecdn.com/magefan_blog/best-hp-laptops-for-programming_1.jpg)]
+![MasterHead](https://my-media.apjonlinecdn.com/magefan_blog/best-hp-laptops-for-programming_1.jpg)
 <h1 align="center">Hi, I'm Muuka Kabwali</h1>
 <h3 align="center">A passionate backend developer from Zambia</h3>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kabwalimuuka@gmail.com**
 
-- 📄 Know about my experiences [Third Year Cs Student](Third Year Cs Student)
+- 📄 Know about my experiences [Third Year Cs Student]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
