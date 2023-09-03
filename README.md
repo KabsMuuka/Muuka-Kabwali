@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kabwalimuuka@gmail.com**
 
-- 📄 Know about my experiences [Third Year Cs Student]
+- 📄 My Experiences:  I am yet to get industrial experience, as I am still a Third Year Cs Student, majoring in Software Engneering at, The University Of Zambia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
