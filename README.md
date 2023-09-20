@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/62635f16d538689b9559c6f9/62660df0769131c596a40518_Expressions_labeled.gif">
 
-- 🔭 I’m currently working on [NODE APIS](https://github.com/KabsMuuka/NODE_API.git)
+- 🔭 I’m currently working on [Online Hotel System](https://github.com/KabsMuuka/Online_hotel_booking_system.git)
 
 - 🌱 I’m currently learning **Nodejs**
 
