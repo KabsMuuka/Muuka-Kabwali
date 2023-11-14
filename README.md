@@ -6,13 +6,19 @@
 
 - 🔭 I’m currently working on [Online Hotel System](https://github.com/KabsMuuka/Online_hotel_booking_system.git)
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Node apis with javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KabsMuuka](https://github.com/KabsMuuka)
 
 - 📫 How to reach me **kabwalimuuka@gmail.com**
 
-- 📄 My Experiences:  I am yet to get industrial experience, as I am still a Third Year Cs Student, majoring in Software Engneering at, The University Of Zambia
+- 📄 About ME:
+
+I am male aged 22, a third-year student pursuing a bachelor's degree in computer science (Major Software Engineering) at The University of Zambia.
+
+I have an intermediate understanding of the following languages JavaScript + NodeJS, Python, SQL, NOSQL to mention a few.   
+
+My interest is gaining an Industrial Level of Experience, in my career path as a -Backend Developer-. I am very much willing to learn and polish my skills where I am found lacking. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
