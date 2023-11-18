@@ -3,6 +3,13 @@
 <h3 align="center">A passionate backend developer from Zambia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/62635f16d538689b9559c6f9/62660df0769131c596a40518_Expressions_labeled.gif">
+- 📄 About ME:
+
+I am male aged 22, a third-year student pursuing a bachelor's degree in computer science (Major Software Engineering) at The University of Zambia.
+
+I have an intermediate understanding of the following languages JavaScript + NodeJS, Python, SQL, NOSQL to mention a few.   
+
+My interest is gaining an Industrial Level of Experience, in my career path as a -Backend Developer-. I am very much willing to learn and polish my skills where I am found lacking. 
 
 - 🔭 I’m currently working on [Online Hotel System](https://github.com/KabsMuuka/Online_hotel_booking_system.git)
 
@@ -12,13 +19,7 @@
 
 - 📫 How to reach me **kabwalimuuka@gmail.com**
 
-- 📄 About ME:
 
-I am male aged 22, a third-year student pursuing a bachelor's degree in computer science (Major Software Engineering) at The University of Zambia.
-
-I have an intermediate understanding of the following languages JavaScript + NodeJS, Python, SQL, NOSQL to mention a few.   
-
-My interest is gaining an Industrial Level of Experience, in my career path as a -Backend Developer-. I am very much willing to learn and polish my skills where I am found lacking. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
