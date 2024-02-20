@@ -5,19 +5,21 @@
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/62635f16d538689b9559c6f9/62660df0769131c596a40518_Expressions_labeled.gif">
 - 📄 About ME:
 
-I am male aged 22, a third-year student pursuing a bachelor's degree in computer science (Major Software Engineering) at The University of Zambia.
+I am a 23-year-old male currently pursuing a bachelor's degree in computer science with a focus on software engineering at The University of Zambia. I have a solid foundation in backend development, with intermediate proficiency in JavaScript (Node.js), Python, SQL, and NoSQL databases. Throughout my academic journey, I have completed several projects where I applied these skills to develop efficient and scalable backend solutions.
 
-I have an intermediate understanding of the following languages JavaScript + NodeJS, Python, SQL, NOSQL to mention a few.   
+One of my notable projects involved building a ChatApp using React, javascript and Firebase for Real time database communications. I've also worked with Websockets and I appreciate how the components integrate together.  
 
-My interest is gaining an Industrial Level of Experience, in my career path as a -Backend Developer-. I am very much willing to learn and polish my skills where I am found lacking. 
+Also worked on RESTful APIs,  using Node.js and Express, which allowed me to gain hands-on experience in designing and implementing backend systems. To just mention a few.  Additionally, I have collaborated with peers on group projects that involved database design, query optimization, and data modeling, further honing my skills in SQL and NoSQL databases.
 
-- 🔭 I’m currently working on [Online Hotel System](https://github.com/KabsMuuka/Online_hotel_booking_system.git)
+I am highly motivated to gain industrial-level experience as a backend developer and am committed to continuously learning and refining my skills in this field. I am eager to leverage my technical expertise, problem-solving abilities, and strong teamwork skills to contribute effectively to real-world projects and make a meaningful IMPACT.
 
-- 🌱 I’m currently learning **Node apis with javascript**
+In the future, I aspire to specialize in backend technologies such as microservices architecture, containerization (e.g., Docker), and cloud computing platforms like AWS or Azure. I am excited about the prospect of tackling complex challenges in backend development and am enthusiastic about the opportunities that lie ahead in my career journey
 
-- 👨‍💻 All of my projects are available at [https://github.com/KabsMuuka](https://github.com/KabsMuuka)
+- 🔭 I’m currently working on [ChatApp](https://github.com/KabsMuuka/Online_hotel_booking_system.git)
 
-- 📫 How to reach me **kabwalimuuka@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/KabsMuuka/chatApp)
+
+- 📫 Reach me **kabwalimuuka@gmail.com**
 
 
 
