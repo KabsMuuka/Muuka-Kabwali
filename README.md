@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/62635f16d538689b9559c6f9/62660df0769131c596a40518_Expressions_labeled.gif">
 - 📄 About ME:
 
-I am a 23-year-old male currently pursuing a bachelor's degree in computer science with a focus on software engineering at The University of Zambia. I have a solid foundation in backend development, with intermediate proficiency in JavaScript (Node.js), Python, SQL, and NoSQL databases. Throughout my academic journey, I have completed several projects where I applied these skills to develop efficient and scalable backend solutions.
+I am a 24-year-old male currently pursuing a bachelor's degree in computer science with a focus on software engineering at The University of Zambia. I have a solid foundation in backend development, with intermediate proficiency in JavaScript (Node.js), Python, SQL, and NoSQL databases. Throughout my academic journey, I have completed several projects where I applied these skills to develop efficient and scalable backend solutions.
 
 One of my notable projects involved developing a ChatApp and a bus ticketing system, where I utilized React for the front-end and Node.js for the back-end. The ChatApp leveraged WebSockets to enable real-time communication, showcasing my ability to build responsive and interactive applications.
 
