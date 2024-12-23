@@ -15,7 +15,7 @@ I am highly motivated to gain industrial-level experience as a backend developer
 
 In the future, I aspire to specialize in backend technologies such as microservices architecture, containerization (e.g., Docker), and cloud computing platforms like AWS or Azure. I am excited about the prospect of tackling complex challenges in backend development and am enthusiastic about the opportunities that lie ahead in my career journey
 
-- 🔭 Recent worked on [https://github.com/KabsMuuka/bus-ticketing-system/tree/main)]
+- 🔭 Currently working on [https://github.com/KabsMuuka/BuyanY] : start date December 2024.
 
 - 📫 Reach me **kabwalimuuka@gmail.com**
 
