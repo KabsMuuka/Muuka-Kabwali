@@ -7,9 +7,10 @@
 
 I am a 24-year-old male currently pursuing a bachelor's degree in computer science with a focus on software engineering at The University of Zambia. I have a solid foundation in backend development, Currently I am proficiency in Java, JavaScript -Node.js, SQL databases. Throughout my academic journey, I have completed several projects where I applied these skills to develop efficient and scalable backend solutions.
 
-One of my notable projects involved developing a ChatApp and a bus ticketing system, where I utilized React for the front-end and Node.js for the back-end. The ChatApp leveraged WebSockets to enable real-time communication, showcasing my ability to build responsive and interactive applications.
+One of my notable projects involved developing a ChatApp and a kabsGadgets an e-commerce platform which i currenltly manage and run, I utilized React for the front-end and java for the back-end.
+As for the ChatApp leveraged WebSockets to enable real-time communication, showcasing my ability to build responsive and real time interactive applications.
 
-In the bus ticketing system, I successfully integrated a mobile money payment system, demonstrating my skills in implementing secure payment solutions and enhancing the application's functionality. These projects allowed me to gain valuable experience in full-stack development and integrating advanced features to meet user needs.
+These projects allowed me to gain valuable experience in full-stack development and integrating advanced features to meet user needs.
 
 I am highly motivated to gain industrial-level experience as a backend developer and am committed to continuously learning and refining my skills in this field. I am eager to leverage my technical expertise, problem-solving abilities, and strong teamwork skills to contribute effectively to real-world projects and make a meaningful IMPACT.
 
