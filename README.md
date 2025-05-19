@@ -1,6 +1,6 @@
 ![MasterHead](https://my-media.apjonlinecdn.com/magefan_blog/best-hp-laptops-for-programming_1.jpg)
 <h1 align="center">Hi, I'm Muuka Kabwali</h1>
-<h3 align="center">A passionate backend developer from Zambia</h3>
+<h3 align="center">Backend Engineer from Zambia </h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/62635f16d538689b9559c6f9/62660df0769131c596a40518_Expressions_labeled.gif">
 - 📄 About ME:
