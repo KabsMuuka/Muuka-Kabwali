@@ -7,7 +7,7 @@
 
 I am a 24-year-old male currently pursuing a bachelor's degree in computer science with a focus on software engineering at The University of Zambia. I have a solid foundation in backend development, Currently I am proficiency in Java, JavaScript -Node.js, SQL databases. Throughout my academic journey, I have completed several projects where I applied these skills to develop efficient and scalable backend solutions.
 
-One of my notable projects involved developing a ChatApp and a kabsGadgets an e-commerce platform which i currenltly manage and run, I utilized React for the front-end and java for the back-end.
+One of my notable projects involved developing a ChatApp and a kabsGadgets an Ecommerce platform which i currenltly manage and run, I utilized React for the front-end and java for the back-end.
 As for the ChatApp leveraged WebSockets to enable real-time communication, showcasing my ability to build responsive and real time interactive applications.
 
 These projects allowed me to gain valuable experience in full-stack development and integrating advanced features to meet user needs.
@@ -16,7 +16,7 @@ I am highly motivated to gain industrial-level experience as a backend developer
 
 In the future, I aspire to specialize in backend technologies such as microservices architecture, containerization (e.g., Docker), and cloud computing platforms like AWS or Azure. I am excited about the prospect of tackling complex challenges in backend development and am enthusiastic about the opportunities that lie ahead in my career journey
 
-- 🔭 Currently working on [https://github.com/KabsMuuka/BuyanY] : start date December 2024.
+- 🔭 Currently managing kabsGadgets:  kabsgadgets.vercel.app : launched December 2024.
 
 - 📫 Reach me **kabwalimuuka@gmail.com**
 
